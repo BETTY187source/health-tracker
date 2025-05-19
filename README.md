@@ -1,7 +1,7 @@
   
  # Health Tracker
 
-A Python application designed to track menstrual cycles, log sympto, and set personalized health reminders. This project aims to provide a user-friendly and secure solution for women's health management.
+A Python application designed to track menstrual cycles, log symptom, and set personalized health reminders. This project aims to provide a user-friendly and secure solution for women's health management.
 
 ---
 
